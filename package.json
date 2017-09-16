@@ -1,0 +1,27 @@
+{
+  "name": "dependency-loader",
+  "version": "1.0.0",
+  "description": "Automatically require any resources related to the module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-drobot/dependency-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "dependency"
+  ],
+  "author": "Anton Drobot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anton-drobot/dependency-loader/issues"
+  },
+  "homepage": "https://github.com/anton-drobot/dependency-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
