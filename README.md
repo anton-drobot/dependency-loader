@@ -5,7 +5,7 @@ Automatically require any resources related to the module.
 ## Install
 
 ```
-npm install --save-dev https://github.com/anton-drobot/dependency-loader.git
+npm install dependency-loader --save-dev
 ```
 
 ## Example
